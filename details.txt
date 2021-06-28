@@ -1,0 +1,2 @@
+hi
+this is details.txt file
